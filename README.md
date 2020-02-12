@@ -1,6 +1,7 @@
 # Pokémon Crystal [![Build Status][travis-badge]][travis]
 
 This is a disassembly of Pokémon Crystal.
+(This version was the base of GoldBerry)
 
 It builds the following ROMs:
 
